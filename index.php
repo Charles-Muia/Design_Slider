@@ -32,18 +32,27 @@
 
 <!-- *********************************************HEADER************************************************** -->
       <header>
-        <div class="logo"><img src="Pics/Icon.jpg" alt=""></div>
+        <div class="logo">image slider
+          <!-- <img src="Pics/Icon.jpg" alt=""> -->
+        </div>
             <ul class="menu">
                 <li>home</li>
                 <li>blog</li>
                 <li>info</li>
             </ul>
                 <div class="search">
-                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
     <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="m21 21-3.5-3.5M17 10a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z"/>
-  </svg>
+                    </svg>
                 </div>
       </header>
+
+<!-- *********************************************SLIDER************************************************** -->
+
+      <div class="slider">
+        
+      </div>
+
 
 </body>
 </html>
