@@ -50,7 +50,52 @@
 <!-- *********************************************SLIDER************************************************** -->
 
       <div class="slider">
-        
+          <div class="list">
+            <div class="item">
+              <img src="Pics/Sand.jpg" alt="">
+                <div class="content">
+                <p>design</p>
+                <h2>slider 01</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae illo et eum quibusdam nobis expedita, hic error. Dolores perferendis, natus nam, culpa impedit magni facilis aperiam ex perspiciatis, aut aliquid?</p>
+              </div>
+            </div>
+
+            <div class="item">
+              <img src="Pics/Sand.jpg" alt="">
+                <div class="content">
+                <p>design</p>
+                <h2>slider 01</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae illo et eum quibusdam nobis expedita, hic error. Dolores perferendis, natus nam, culpa impedit magni facilis aperiam ex perspiciatis, aut aliquid?</p>
+              </div>
+            </div>
+
+            <div class="item">
+              <img src="Pics/Sand.jpg" alt="">
+                <div class="content">
+                <p>design</p>
+                <h2>slider 01</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae illo et eum quibusdam nobis expedita, hic error. Dolores perferendis, natus nam, culpa impedit magni facilis aperiam ex perspiciatis, aut aliquid?</p>
+              </div>
+            </div>
+
+            <div class="item">
+              <img src="Pics/Sand.jpg" alt="">
+                <div class="content">
+                <p>design</p>
+                <h2>slider 01</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae illo et eum quibusdam nobis expedita, hic error. Dolores perferendis, natus nam, culpa impedit magni facilis aperiam ex perspiciatis, aut aliquid?</p>
+              </div>
+            </div>
+
+            <div class="item">
+              <img src="Pics/Sand.jpg" alt="">
+                <div class="content">
+                <p>design</p>
+                <h2>slider 01</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae illo et eum quibusdam nobis expedita, hic error. Dolores perferendis, natus nam, culpa impedit magni facilis aperiam ex perspiciatis, aut aliquid?</p>
+              </div>
+            </div>
+          </div>
       </div>
 
 
